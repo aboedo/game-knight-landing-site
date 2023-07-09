@@ -95,7 +95,7 @@ You can also choose not to include these pages, by simple deleting the `privacyp
 ## Local development
 For local development, run: 
 ```bash
-bundle exec jekyll serve
+bundle exec jekyll serve --watch
 ```
 
 ## Feedback

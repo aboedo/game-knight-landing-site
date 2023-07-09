@@ -56,9 +56,9 @@ features                                  :
     description                           : Find out a lot more about games you like, with easy links to get more information and even deals on games.
     fontawesome_icon_name                 : adjust
 
-  - title                                 : # New Feature Title
-    description                           : # New Feature Description
-    fontawesome_icon_name                 : # Enter Font Awesome icon name (e.g. star). Find icons on fontawesome.com/icons.
+  - title                                 : Built-in calculator
+    description                           : Calculate scores without leaving the app with a built-in calculator
+    fontawesome_icon_name                 : calculator
 
 
 

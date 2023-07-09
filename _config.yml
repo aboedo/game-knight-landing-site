@@ -38,23 +38,23 @@ features                                  :
 
   - title                                 : Host Game Nights!
     description                           : Game Knight is your perfect game night companion.
-    fontawesome_icon_name                 : magic
+    fontawesome_icon_name                 : dice
     
   - title                                 : Keep track of matches
     description                           : See scores and history for all players. Who won at Scrabble last Saturday? Easy to find out!
-    fontawesome_icon_name                 : mobile
+    fontawesome_icon_name                 : trophy
 
   - title                                 : Add Players
     description                           : Add your friends as players with fun icons
-    fontawesome_icon_name                 : play-circle
+    fontawesome_icon_name                 : users
 
   - title                                 : Add Games
     description                           : Add the games you play in the app, and find new ones easily
-    fontawesome_icon_name                 : sync
+    fontawesome_icon_name                 : chess-board
 
   - title                                 : Game Details
     description                           : Find out a lot more about games you like, with easy links to get more information and even deals on games.
-    fontawesome_icon_name                 : adjust
+    fontawesome_icon_name                 : magic
 
   - title                                 : Built-in calculator
     description                           : Calculate scores without leaving the app with a built-in calculator

@@ -84,10 +84,10 @@ app_description_color                     : "#ffffff"
 feature_title_color                       : "#ffffff"
 feature_text_color                        : "#888888"
 
-feature_icons_foreground_color            : "#693eb6"
+feature_icons_foreground_color            : "#4a2e80"
 feature_icons_background_color            : "#e6e6e6"
 
-social_icons_foreground_color             : "#666666"
+social_icons_foreground_color             : "#4a2e80"
 social_icons_background_color             : "#e6e6e6"
 
 footer_text_color                         : "#666666"

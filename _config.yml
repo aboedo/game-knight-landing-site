@@ -26,7 +26,7 @@ your_city                                 : Montevideo
 email_address                             : andresboedo@gmail.com
 facebook_username                         :                                           
 instagram_username                        : aboedo
-twitter_username                          : andresboedo
+twitter_username                          : getgameknight
 github_username                           : aboedo
 youtube_username                          :
 mastodon_link                             : https://toot.io/@andresboedo
@@ -37,19 +37,19 @@ mastodon_link                             : https://toot.io/@andresboedo
 features                                  :
 
   - title                                 : Host Game Nights!
-    description                           : Game Knight is your perfect game night companion.
+    description                           : Game Knight is the must-have app for every board game enthusiast. Whether you're a casual player or a hardcore gamer, our app enhances your gaming experience and brings more fun to your board game nights.
     fontawesome_icon_name                 : dice
     
   - title                                 : Keep track of matches
-    description                           : See scores and history for all players. Who won at Scrabble last Saturday? Easy to find out!
+    description                           : No more disputes about who won the last game! With Game Knight, you can easily record the results of your games, keep track of player scores, and view detailed game histories.
     fontawesome_icon_name                 : trophy
 
   - title                                 : Add Players
-    description                           : Add your friends as players with fun icons
+    description                           : Add your friends, assign them unique avatars, and keep track of everyone's game performance. Who's the reigning champion in your group?
     fontawesome_icon_name                 : users
 
   - title                                 : Add Games
-    description                           : Add the games you play in the app, and find new ones easily
+    description                           : Explore our extensive database of board games. Find detailed information, read reviews, and even discover great deals online. Save your favorites for easy access later.
     fontawesome_icon_name                 : chess-board
 
   - title                                 : Game Details
@@ -57,7 +57,7 @@ features                                  :
     fontawesome_icon_name                 : magic
 
   - title                                 : Built-in calculator
-    description                           : Calculate scores without leaving the app with a built-in calculator
+    description                           : Calculate scores without leaving the app with a built-in calculator.
     fontawesome_icon_name                 : calculator
 
 
